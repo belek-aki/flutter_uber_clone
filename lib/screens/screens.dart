@@ -1,2 +1,3 @@
-export 'MainScreen.dart';
-export 'loginScreen.dart';
+export 'main_screen.dart';
+export 'login_screen.dart';
+export 'registration_screen.dart';
